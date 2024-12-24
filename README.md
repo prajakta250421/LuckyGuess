@@ -38,5 +38,10 @@ During development, we:
 
 ---
 
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-24 at 8 59 49 PM" src="https://github.com/user-attachments/assets/2b0366da-d14f-490f-b3ab-fddb9cce2d28" />
+
+<img width="1440" alt="Screenshot 2024-12-24 at 8 29 23 PM" src="https://github.com/user-attachments/assets/cde72ae2-4836-4ae1-97e1-9beb8cb18229" />
+
 Enjoy playing **LuckyGuess** and earn exciting Meme Coin rewards!
 
