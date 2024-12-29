@@ -18,14 +18,12 @@ A blockchain-powered interactive game where players guess a randomly chosen numb
 
 ## Contract Details
 
-- **Contract Address**: `0x2C1f3be15F1A081Cd2Aad1dAe744417304D13023`
-- **MEME COIN Address**: `0xab2A58f7cDA5e426C18beDf518d8833822CA4656`
-- **Network**: Neo X Testnet T4
+- **Contract Address**: `0xab2A58f7cDA5e426C18beDf518d8833822CA4656`
+- **Network**: Neo X Mainnet
 
 ## Deployment
 
-- **Contract**: [View on Explorer](https://xt4scan.ngd.network/address/0x2C1f3be15F1A081Cd2Aad1dAe744417304D13023)
-- **THEBESTCOIN**: [View on Explorer](https://xt4scan.ngd.network/token/0xab2A58f7cDA5e426C18beDf518d8833822CA4656)
+- **Contract**: [View on Explorer](https://xexplorer.neo.org/address/0xab2A58f7cDA5e426C18beDf518d8833822CA4656)
 - **Coin Used**: GAS
 
 ## Progress During Development
