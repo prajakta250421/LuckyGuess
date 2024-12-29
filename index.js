@@ -1,5 +1,5 @@
-const contractAddress = "0x2C1f3be15F1A081Cd2Aad1dAe744417304D13023"; // Replace with your Guessing Game contract address
-const memeCoinAddress = "0xab2A58f7cDA5e426C18beDf518d8833822CA4656"; // Replace with your Meme Coin contract address
+const contractAddress = "0xab2A58f7cDA5e426C18beDf518d8833822CA4656"; // Replace with your Guessing Game contract address
+const memeCoinAddress = "0xB6Afd155dE5eE15ED489B7793346155aF714D705"; // Replace with your Meme Coin contract address
 const abi =[
 	{
 		"inputs": [],
